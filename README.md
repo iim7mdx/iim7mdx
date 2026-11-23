@@ -26,7 +26,7 @@
 using namespace std;
 
 struct Developer {
-    string name     = "YOUR_NAME";
+    string name     = "Mohamed Maher";
     string from     = "Minya, Egypt";
     string studying = "Computer Science";
     string language = "C++";
@@ -36,7 +36,7 @@ struct Developer {
         while (true) {
             solve_problem();
             build_project();
-            hit_the_gym();   // mind + body 💪
+            hit_the_gym();   
             learn_something_new();
         }
     }
