@@ -34,8 +34,6 @@ struct Developer {
         while (true) {
             solve_problem();
             build_project();
-            hit_the_gym();   // mind + body 💪
-            learn_something_new();
         }
     }
 };
@@ -46,12 +44,6 @@ int main() {
     return 0;
 }
 ```
-
-- 🎓 Computer Science student at **Lotus University**, Minya, aiming to be a strong software engineer
-- 🧠 Deep into **problem solving** and **data structures & algorithms**
-- 🔭 Now leveling up in **OOP & STL** with C++
-- 🏋️ Gym 3x a week: discipline in code starts with discipline in life
-- 🎮 Built my first game solo: **Rock Paper Scissors** in C++
 
 ---
 
